@@ -1,6 +1,6 @@
 {
   "name": "docs.packer",
-  "version": "1.6.1-5",
+  "version": "1.6.1-6",
   "description": "DOCS packer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
